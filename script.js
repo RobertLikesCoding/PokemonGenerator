@@ -12,6 +12,6 @@ const elementPicker = () => {
     return elementArray[randomDigit];
 }
 
-
+console.log(`You have just created a new Pokemon: It is called ${namesPicker()}, it is a ${elementPicker()} Pokemon and has ${hpRange} HP.`);
 
 
