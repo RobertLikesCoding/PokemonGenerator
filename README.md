@@ -2,7 +2,7 @@
 
 This is a simple program that creates a random Pokemon name, showing it's element and hit points (hp).
 
-## Why did you make this?
+## Why did I make this?
 
 This is a project from my Codecademy Web Developer Course. I was supposed to create a random message where 3 parts of that message were supposed to be random.
 
